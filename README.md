@@ -2,11 +2,10 @@
 test1983
 
 <!--
+```
 @startuml firstDiagram
-
 Alice -> Bob: Hello
-Bob -> Alice: Hi!
-	
+Bob -> Alice: Hi!	
 @enduml
 -->
 
